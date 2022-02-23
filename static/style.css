@@ -1,0 +1,13 @@
+body {
+    background-image: url("img/narufondo.jpg");
+    background-size: 100%;
+    background-repeat: repeat-x;
+}
+
+.collapse navbar-collapse {
+    left: 300px;
+}
+
+.navbar-toggler {
+    background-color: rgb(129, 70, 70);
+}
